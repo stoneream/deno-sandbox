@@ -1,4 +1,6 @@
-# denoで遊んで見るテスト
+# deno-sandbox
+
+denoで遊んで見るテスト
 
 ## Windows環境へのインストール
 
@@ -29,7 +31,7 @@ deno run -A .\hello.ts
 # Hello, TypeScript
 ```
 
-# `run` の `-A` オプション is....
+## `run` の `-A` オプション is....
 
 ```powershell
 deno run
